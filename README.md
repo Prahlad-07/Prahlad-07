@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prahlad Yadav</h1>
-<h3 align="center">Software Engineer | Android </h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-07&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prahlad-07" alt="prahlad-07" /></a> </p>
+
+- 🔭 I’m currently working on [CodeSiksha App](https://github.com/AnmolSaini28/CodeShiksha)
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -16,6 +19,8 @@
 
 - 📫 How to reach me **prahlady444@gmail.com**
 
+- ⚡ Fun fact **I think i'm funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prahlad_yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prahlad_yadav_" height="30" width="40" /></a>
@@ -23,6 +28,7 @@
 <a href="https://www.youtube.com/c/algomaster_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algomaster_07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mr_encrypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mr_encrypt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mr_encrypt_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_encrypt_07" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prahlad_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prahlad_07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
