@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad Yadav</h1>
 <h3 align="center">Software Engineer | Android </h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p2NGN0cHhqdGdlcHE0dzl2emtsaDNvZXF4aWc1MHVqcXNsdjlzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-07&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-07" /> </p>
