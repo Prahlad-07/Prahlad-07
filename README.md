@@ -1,3 +1,4 @@
+![Logo](https://github.com/Prahlad-07/Prahlad-07/blob/main/Blue%20%26%20white%20minimal%20linkedin%20profile%20cover%20image.jpg)
 <h1 align="center">Hi 👋, I'm Prahlad Yadav</h1>
 <h3 align="center">Software Engineer | Android | Flutter | Spring Boot | Competitive Programmer</h3>
 
