@@ -23,7 +23,7 @@
 
 ### 📲 Connect with Me:
 <p align="center">
-   <a href="https://www.leetcode.com/mr_encrypt_07" target="_blank">
+   <a href="https://www.leetcode.com/Prahlad_07" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/prahlad-yadav-478040257" target="_blank">
