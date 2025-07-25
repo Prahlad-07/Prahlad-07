@@ -2,12 +2,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=Prahlad-07" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-pill&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Prahlad-Yadav-Linkedin/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-pill&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahlad-yadav-478040257/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-pill&logo=gmail&logoColor=white)](mailto:prahlady444@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-pill&logo=leetcode&logoColor=white)](https://leetcode.com/Leetcode/)
-[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-pill&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YourHandle)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-pill&logo=leetcode&logoColor=white)](https://leetcode.com/Prahlad_07/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-pill&logo=leetcode&logoColor=white)](https://leetcode.com/Prahlad-07/)
 
-### 🚀 SDE Intern | Competitive Programmer | Android Developer
+
+### 🚀Software Engineer | Competitive Programmer | Android Developer | Backend Expert
 
 🎓 **B.Tech IT** @ GEC Bilaspur | 🏆 **LeetCode Guardian** | 🌍 **Global Competitor**
 
