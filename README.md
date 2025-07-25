@@ -1,110 +1,110 @@
-## 👋 Hey there! I'm [Prahlad Yadav](https://github.com/Prahlad-07)
+# 👋 Hey there! I'm [Prahlad Yadav](https://github.com/Prahlad-07)
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Prahlad-07&style=for-the-badge&color=blueviolet)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+🚀;Competitive+Programmer+💻;Android+Developer+📱;Backend+Expert+⚡" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahlad-yadav-478040257/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prahlady444@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Prahlad_07/)
+![Profile Views](https://komarev.com/ghpvc/?username=Prahlad-07&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
 
-</div>
-
-### 🚀 **Software Engineer** | **Competitive Programmer** | **Android Developer** | **Backend Expert**
-
-🎓 **B.Tech IT** @ GEC Bilaspur | 🏆 **LeetCode Guardian** | 🌍 **Global Top 1% Coder**
-
----
-
-## 🏆 **Hall of Fame**
-
-| 🥇 **Championship Wins** | 🏅 **Runner-up Positions** |
-|---------------------------|----------------------------|
-| **Tech-Nova CP** Competitions | **CSVTU Coding** (Solo vs Teams) |
-| **Hackovation 2024** (GEC Bilaspur) | **IEEE CSVTU Ideathon 2024** |
-| **LCIT Ideathon 2024** | **IEEE ICECCT** (NIJAAT App) |
-| **Tech-Nova 2024** | Multiple Regional Hackathons |
-
----
-
-## 📊 **Coding Mastery Dashboard**
-
-<div align="center">
-
-| **Platform** | **Status** | **Peak Rating** | **Global Rank** |
-|:------------:|:----------:|:---------------:|:---------------:|
-| 🟡 **LeetCode** | **Guardian** 👑 | **2140** | **Top 1%** |
-| 🔵 **CodeForces** | **Expert** ⭐ | **1605** | **Specialist** |
-| 🟠 **CodeChef** | **4-Star** ⭐⭐⭐⭐ | **1950+** | **Elite** |
-| 🟢 **HackerRank** | **6-Star** ⭐⭐⭐⭐⭐⭐ | **Max** | **Problem Master** |
-| 🟪 **GeeksforGeeks** | **4-Star** ⭐⭐⭐⭐ | **1920** | **Job-a-thon Winner** |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/prahlad-yadav-478040257/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:prahlady444@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/Prahlad_07/)
 
 </div>
 
 ---
 
-## 💻 **Technology Arsenal**
+## 🎯 **About Me**
+```yaml
+Name: Prahlad Yadav
+Role: Software Engineer | Competitive Programmer
+Education: B.Tech IT @ GEC Bilaspur
+Status: LeetCode Guardian 👑 | Global Top 1% Coder 🌍
+Specialty: Problem Solving | System Design | Android Development
+```
+
+---
+
+## 🏆 **Achievements Showcase**
 
 <div align="center">
 
-**Languages & Frameworks**
-<br><br>
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+### 🥇 **Championships Won**
+![Tech-Nova](https://img.shields.io/badge/Tech--Nova%20CP-🏆%20WINNER-gold?style=for-the-badge)
+![Hackovation](https://img.shields.io/badge/Hackovation%202024-🏆%20WINNER-gold?style=for-the-badge)
+![LCIT](https://img.shields.io/badge/LCIT%20Ideathon-🏆%20WINNER-gold?style=for-the-badge)
 
-**Mobile & Backend**
-<br><br>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+### 🥈 **Runner-up Positions**
+![CSVTU](https://img.shields.io/badge/CSVTU%20Coding-🥈%20RUNNER--UP-silver?style=for-the-badge)
+![IEEE](https://img.shields.io/badge/IEEE%20CSVTU%20Ideathon-🥈%20RUNNER--UP-silver?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 **Flagship Projects**
-
-### 📱 **[GEC Bilaspur App](https://github.com/Prahlad-07/GEC-App)**
-> 🏆 **Best Project 2024** | 🎯 **1000+ Active Users** | 📈 **100% Campus Adoption**
-
-### 🌳 **[Segment Tree Visualizer](https://github.com/Prahlad-07/Segment-Tree)**
-> 🎨 **Interactive Data Structure Visualization** | 🧠 **Educational Tool**
-
-### 🚫 **[NIJAAT App](https://github.com/Prahlad-07/NIJAAT)**
-> 🥈 **IEEE ICECCT Runner-up** | 🌟 **Social Impact Solution**
-
----
-
-## 📈 **GitHub Performance & Activity**
+## 📊 **Coding Mastery**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prahlad-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Prahlad-07&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prahlad-07&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prahlad-07&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&custom_title=Contribution%20Activity%20Graph" />
+| Platform | Status | Rating | Rank |
+|:--------:|:------:|:------:|:----:|
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | **Guardian 👑** | **2140** | **Top 1%** |
+| ![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **Expert ⭐** | **1605** | **Specialist** |
+| ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **4-Star ⭐⭐⭐⭐** | **1950+** | **Elite** |
+| ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | **6-Star ⭐⭐⭐⭐⭐⭐** | **Max** | **Master** |
+| ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white) | **4-Star ⭐⭐⭐⭐** | **1920** | **Winner** |
 
 </div>
 
 ---
 
-## 💼 **Professional Journey**
+## 📈 **GitHub Analytics**
 
-**🔬 SDE Intern** @ **MIDAS Lab** | **📝 Problem Setter** @ **TechCurators**
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prahlad-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prahlad-07&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ffa657&currStreakLabel=58a6ff" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prahlad-07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffa657&area=true&area_color=58a6ff&custom_title=📊%20Contribution%20Activity%20Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prahlad-07&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10&no-bg=true" />
+
+</div>
+
+---
+
+## 💼 **Professional Experience**
+
+<div align="center">
+
+![SDE Intern](https://img.shields.io/badge/🔬%20SDE%20Intern-MIDAS%20Lab-blue?style=for-the-badge&labelColor=2196F3)
+![Problem Setter](https://img.shields.io/badge/📝%20Problem%20Setter-TechCurators-green?style=for-the-badge&labelColor=4CAF50)
+
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🎯 **Ready to innovate? Let's build the future together!**
+### 🚀 **Ready to innovate? Let's build the future together!**
 
-**🚀 Open for SDE opportunities | 💡 Always up for exciting challenges**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Open+for+SDE+opportunities;💡+Always+up+for+exciting+challenges;🌟+Let's+connect+and+collaborate!" alt="Footer Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Problem+Solver+%7C+Code+Architect;Building+Scalable+Solutions;Competitive+Programming+Expert" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
 
 </div>
