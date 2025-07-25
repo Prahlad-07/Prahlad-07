@@ -25,6 +25,7 @@
 | 🔵 **CodeForces** | Expert | 1605 | Consistent Performer |
 | 🟠 **CodeChef** | 4-Star | 1950+ | Problem Solver |
 | 🟢 **HackerRank** | 6-Star | - | Problem Solving |
+| 🟢 **GeeksforGeeks** | 4-Star | 1920 | Job-a-thon Champion |
 
 ### 💻 Tech Stack
 <p>
