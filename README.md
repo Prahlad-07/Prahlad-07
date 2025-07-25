@@ -9,14 +9,22 @@
 
 ### 🚀 SDE Intern | Competitive Programmer | Android Developer
 
-🎓 **B.Tech IT** @ GEC Bilaspur | 🏆 **LeetCode Guardian (2140)** | 🥇 **ICPC AIR 311**
+🎓 **B.Tech IT** @ GEC Bilaspur | 🏆 **LeetCode Guardian** | 🌍 **Global Competitor**
 
 ### 🔥 Achievements
-- 🏆 **LeetCode Guardian** - Max Rating: **2140**
-- 🟦 **CodeForces Expert** - Max Rating: **1605** 
-- ⭐ **CodeChef 4-Star** - Max Rating: **1950+**
-- 🥇 **AIR 311** ICPC Kanpur | **2000+ Problems Solved**
-- 🏅 **Winner**: Tech-Nova 2024, Hackovation 2024, LCIT Ideathon
+- 🥇 **Winner**: Tech-Nova 2024 (500+ participants) | Hackovation 2024 (GEC Bilaspur)
+- 🥇 **1st Position**: LCIT Ideathon (100+ teams) | **2000+ Problems Solved**
+- 🥈 **2nd Position**: CSVTU Coding (solo vs teams) | IEEE ICECCT Competition
+- 🏅 **Top Performer**: Multiple hackathons & coding competitions across Chhattisgarh
+
+### 📊 Coding Profiles
+
+| Platform | Badge | Max Rating | Achievement |
+|----------|-------|------------|-------------|
+| 🟡 **LeetCode** | Guardian | 2140 | Top 5% Globally |
+| 🔵 **CodeForces** | Expert | 1605 | Consistent Performer |
+| 🟠 **CodeChef** | 4-Star | 1950+ | Problem Solver |
+| 🟢 **HackerRank** | 6-Star | - | Problem Solving |
 
 ### 💻 Tech Stack
 <p>
