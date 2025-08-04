@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Software+Engineer+%7C+💻+CP+Champion;🏆+LeetCode+Guardian+%7C+⚡+Top+1%25;📱+Android+Dev+%7C+🌟+Backend+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🚀+Software+Engineer+%7C+💻+CP+Champion)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=📱+Android+Developer+%7C+🌟+Backend+Expert)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
-
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack**
 
@@ -30,20 +30,10 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🥇 **LeetCode Guardian** - Rating: 2140 (Top 1%)</td>
-<td align="center">⭐ **CodeForces Expert** - Rating: 1605</td>
-</tr>
-<tr>
-<td align="center">🥇 **Tech-Nova CP Champion**</td>
-<td align="center">🥇 **Hackovation 2024 Winner**</td>
-</tr>
-<tr>
-<td align="center">⭐ **CodeChef 4-Star** - Rating: 1950+</td>
-<td align="center">🎯 **Global Top 1% Coder**</td>
-</tr>
-</table>
+| 🥇 **LeetCode Guardian** - Rating: 2140 (Top 1%) | ⭐ **CodeForces Expert** - Rating: 1605 |
+|:---:|:---:|
+| 🥇 **Tech-Nova CP Champion** | 🥇 **Hackovation 2024 Winner** |
+| ⭐ **CodeChef 4-Star** - Rating: 1950+ | 🎯 **Global Top 1% Coder** |
 
 </div>
 
