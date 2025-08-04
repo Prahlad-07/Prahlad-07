@@ -8,14 +8,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **GitHub Stats**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prahlad-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prahlad-07&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ffa657&currStreakLabel=58a6ff)
-
-</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack**
 
